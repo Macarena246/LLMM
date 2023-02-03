@@ -1,0 +1,18 @@
+﻿* Mostrar todos los videojuegos:
+   * /videojuegos/videojuego
+
+
+* Mostrar los títulos de todos los videojuegos:
+   * /videojuegos/videojuego/titulo
+
+
+* Mostrar los títulos de todos los videojuegos que empiezan por la letra T:
+   * /videojuegos/videojuego/titulo[starts-with(., 'T')]
+
+
+* Mostrar todos los títulos de videojuego que se hayan publicado a partir del año 2000:
+   * /videojuegos/videojuego[@anyo>2000]
+
+
+* Los atributos de los nodos videojuego (solo el texto):
+   * //@*

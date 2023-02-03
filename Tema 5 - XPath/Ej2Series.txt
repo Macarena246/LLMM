@@ -1,0 +1,39 @@
+﻿<series>
+   <serie>
+       <titulo>Las chicas del cable</titulo>
+       <temporadas>5</temporadas>
+       <anyo>2017</anyo>
+   </serie>
+   <serie>
+       <titulo>Días Mejores</titulo>
+       <temporadas>1</temporadas>
+       <anyo>2021</anyo>
+   </serie>
+   <serie>
+       <titulo>Merlí</titulo>
+       <temporadas>3</temporadas>
+       <anyo>2015</anyo>
+   </serie>
+   <serie>
+       <titulo>Los Simpsons</titulo>
+       <temporadas>34</temporadas>
+       <anyo>1989</anyo>
+   </serie>
+   <serie>
+       <titulo>Los Soprano</titulo>
+       <temporadas>6</temporadas>
+       <anyo>1999</anyo>
+   </serie>
+</series>
+
+
+
+
+* Mostrar todas las series
+   * /series/serie
+* Mostrar todas las series que se estrenaron en un año determinado
+   * /series/serie[anyo = 2021]
+* Mostrar todas las series que tengan más de diez temporadas
+   * /series/serie[temporada > 10]
+* Mostrar todas las series cuyo título contenga la letra L en cualquier posición
+   * /series/serie/titulo[contains(., 'L')]

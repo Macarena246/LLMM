@@ -1,0 +1,42 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<Curriculum>
+
+	<nombre> Esperanza Macarena </nombre>
+	<apellidos> Jurado Rodríguez </apellidos>
+	<añonacimiento> 2002 </añonacimiento>
+
+	<residencia>
+		<ciudad> Sevilla </ciudad>
+		<pais> España </pais>
+	</residencia>
+
+	<datoscontacto>
+		<telefono> 722 716 669 </telefono>
+		<correoelectronico> esmajuro@gmail.com </correoelectronico>
+		<perfilLinkedIn> Macarena Jurado </perfilLinkedIn>
+	</datoscontacto>
+
+
+	<descripcion>
+		Soy una persona con ambición, entregada, simpática, extrovertida, siempre abierta a nuevos campos de visión y aprendizaje.
+
+	</descripcion>
+
+	<competencias>
+	<competencia nombre= "Inglés" titulacion= "B1"/>
+	<competencia nombre= "Francés" titulacion= "A2"/>
+	</competencias>
+	
+	<formacionacademica>
+	<formacionacademica titulacion= "Bachillerato Tecnológico" centro= "IES Ramón del Valle-Inclán" añodetitulacion= "2020"/>
+	</formacionacademica>
+
+	<experienciaprofesional>
+		<puesto> Camarera </puesto>
+		<empresa> Casa Curro Montoya </empresa>
+		<añoinicio> 2022 </añoinicio>
+		<añofinalizacion> 2022 </añofinalizacion>
+	</experienciaprofesional>
+
+</Curriculum>

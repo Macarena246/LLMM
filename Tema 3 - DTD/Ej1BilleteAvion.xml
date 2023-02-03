@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BilleteDeAvion [
+    <!ELEMENT BilleteDeAvion (NombrePasajero, AeropuertoOrigen, AeropuertoDestino,FechaVuelo,HoraVuelo)>
+    <!ELEMENT NombrePasajero (#PCDATA)>
+    <!ELEMENT AeropuertoOrigen (#PCDATA)>
+    <!ELEMENT AeropuertoDestino (#PCDATA)>
+    <!ELEMENT FechaVuelo (#PCDATA)>
+    <!ELEMENT HoraVuelo (#PCDATA)>
+    ]>
+    
+<BilleteDeAvion>
+    <NombrePasajero>Macarena Jurado</NombrePasajero>
+    <AeropuertoOrigen>SVQ</AeropuertoOrigen>
+    <AeropuertoDestino>México</AeropuertoDestino>
+    <FechaVuelo>25/12/2022</FechaVuelo>
+    <HoraVuelo>04:00</HoraVuelo>
+</BilleteDeAvion>

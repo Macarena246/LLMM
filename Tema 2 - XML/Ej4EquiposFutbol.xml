@@ -1,0 +1,24 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+
+<EquiposdeFutbol>
+	<EquipoBetis>
+	<nombre>Betis</nombre>
+	<ciudad>Sevilla</ciudad>
+	<entrenador/>
+		<jugador1 posicion="delantero"> Borja Iglesias </jugador1>
+		<nacionalidad> Española </nacionalidad>
+		<jugador2 posicion="centrocampista"> Joaquín </jugador2>
+		<nacionalidad> Española </nacionalidad>
+	</EquipoBetis>
+
+
+<EquipoPSG>
+	<nombre>Paris Saint Germain</nombre>
+	<ciudad>París</ciudad>
+	<entrenador/>
+		<jugador1 posicion="delantero"> Neymar Jr </jugador1>
+		<nacionalidad> Brasileña </nacionalidad>
+		<jugador2 posicion="defensa"> Hakimi </jugador2>
+		<nacionalidad> Marroquí </nacionalidad>
+	</EquipoPSG>
+</EquiposdeFutbol>
